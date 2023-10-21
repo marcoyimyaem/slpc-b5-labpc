@@ -9,7 +9,10 @@ public class ClassB {
         System.out.println("hello "+ca.name);
         System.out.println("you are now "+cc.age);
         ClassC ccc = new ClassC();
+        ClassC cccc=cc;
         ca.name = "Pedro";
         System.out.println("hello "+ca.name);
+        System.out.println(cc instanceof ClassC);
+
     }
 }

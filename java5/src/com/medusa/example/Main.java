@@ -26,6 +26,19 @@ public class Main {
         System.out.println(Byte.MAX_VALUE);
         System.out.println(Byte.MIN_VALUE);
 //        System.gc();
+        System.out.println(money++);
+        System.out.println(money);
+        System.out.println(--money);
+        boolean hungry = false;
+        char initial = 'c';
+        System.out.println(initial++);
+        System.out.println(initial);
+        System.out.println(!hungry);
+        System.out.println(hungry);
+        money = money + 10;
+        money+=10;
+
+
     }
     void showClassC(){
         int age = ccc.age;
