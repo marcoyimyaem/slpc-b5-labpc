@@ -14,7 +14,7 @@ import java.util.Random;
 public class Main {
     static ClassC ccc = new ClassC();
     public static void main(String[] args) {
-        ClassC cc = new ClassC();
+        ClassC ccc = new ClassC();
         Main m = new Main();
         System.out.println(ccc.age);
         m.showClassC2(ccc.age);
