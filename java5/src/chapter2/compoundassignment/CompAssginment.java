@@ -9,6 +9,10 @@ public class CompAssginment {
         mallcounter.peopleCounter(5);
         mallcounter.peopleCounter(16);
         System.out.println(mallcounter.persons);
+        long y = 15;
+        int yy = 10;
+        yy+=5.5;
+        System.out.println(yy);
 
     }
     int peopleCounter(int in){
