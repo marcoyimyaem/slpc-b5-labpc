@@ -1,6 +1,8 @@
 package chapter2.logical.ops;
 import com.medusa.example.ClassC;
 
+import java.util.Scanner;
+
 public class LogicalOpsSample {
     public static void main(String[] args) {
         boolean askif = true;
@@ -21,9 +23,11 @@ public class LogicalOpsSample {
         ClassC cc = new ClassC();
         ClassC cc2 = new ClassC();
         ClassC cc3 = cc;
-
+        Scanner ss = new Scanner(System.in);
+        int p = ss.nextInt();
         System.out.println(cc3.toString());
         System.gc();
 
     }
+
 }
