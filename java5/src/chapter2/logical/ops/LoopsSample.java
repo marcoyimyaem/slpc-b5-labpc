@@ -30,7 +30,19 @@ public class LoopsSample {
 
 ROW:        for(int m = 1;m<=10;m++) {
 COL:            for (int n = 1; n <= 10; n++) {
-                System.out.print(n*m+" ");
+                System.out.print(n*m+"\t");
+            }
+            System.out.println();
+        }
+
+        ROW2: for(int m = 1;m<=10;m++) {
+            COL2: for (int n = 1; n <= 10; n++) {
+                System.out.print(n+"\t");
+                if(n==5) {
+//                    break COL2;
+                    continue COL2;
+                }
+                System.out.println("@");
             }
             System.out.println();
         }
