@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/IfSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/IfSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/com/medusa/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/com/medusa/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/test/pack/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/test/pack/ClassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

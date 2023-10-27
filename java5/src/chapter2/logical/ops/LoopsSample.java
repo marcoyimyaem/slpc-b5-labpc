@@ -18,10 +18,22 @@ public class LoopsSample {
 
         for(int q = 0;q<5;q++)
             System.out.println("q: "+ (q));
-// infin8 loop
+// infin8 loop for(;;)
         //        for(int q = 0;q<5; System.out.println("hello"))
 //            System.out.println("q: "+ (q++));
+//        for(;;)
+//            System.out.println("Hello infinite loop");
+        String[] colors = {"Red","Blue","Black","Pink","Green"};
+        for(String color:colors)
+            System.out.print(color+", ");
+        System.out.println();
 
+ROW:        for(int m = 1;m<=10;m++) {
+COL:            for (int n = 1; n <= 10; n++) {
+                System.out.print(n*m+" ");
+            }
+            System.out.println();
+        }
     }
 
 
