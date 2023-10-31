@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/IfSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +26,20 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2XKI2jqxDWkPa3rPcGA1zBGirje" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.LoopsSample">
     <configuration name="LoopsSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.logical.ops.LoopsSample" />
