@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/IfSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LoopsSample">
+  <component name="RunManager" selected="Application.StringBuilderSample">
     <configuration name="LoopsSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.logical.ops.LoopsSample" />
       <module name="slpc-b5-labpc" />
@@ -54,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringBuilderSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.StringBuilderSample" />
+      <module name="slpc-b5-labpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderSample" />
         <item itemvalue="Application.LoopsSample" />
       </list>
     </recent_temporary>
@@ -83,6 +98,26 @@
           <url>file://$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java</url>
           <line>19</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
