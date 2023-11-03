@@ -46,6 +46,8 @@ COL:            for (int n = 1; n <= 10; n++) {
             }
             System.out.println();
         }
+        LoopsSample ss = new LoopsSample();
+        System.out.println(ss.getClass().getSuperclass());
     }
 
 
