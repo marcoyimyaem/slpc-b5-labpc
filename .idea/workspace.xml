@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter3/ArraySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter3/ArralistSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter3/VarArgsSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter2/logical/ops/LoopsSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter3/StringBuilderSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter2/logical/ops/LoopsSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter3/StringBuilderSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter3/StringBuilderSample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,20 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraySample">
+  <component name="RunManager" selected="Application.ArralistSample">
+    <configuration name="ArralistSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ArralistSample" />
+      <module name="slpc-b5-labpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraySample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.ArraySample" />
       <module name="slpc-b5-labpc" />
@@ -85,8 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarArgsSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.VarArgsSample" />
+      <module name="slpc-b5-labpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArralistSample" />
+        <item itemvalue="Application.VarArgsSample" />
         <item itemvalue="Application.ArraySample" />
         <item itemvalue="Application.LoopsSample" />
         <item itemvalue="Application.StringBuilderSample" />
