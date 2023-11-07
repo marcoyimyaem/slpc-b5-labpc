@@ -1,6 +1,7 @@
 package chapter3;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class ArralistSample {
@@ -48,12 +49,52 @@ public class ArralistSample {
         numberss.add(2);
         numberss.remove(1);
         System.out.println(numberss);
-
-
-
-
-
-
-
+        List<Integer> numbers = new ArrayList<>();
+        numbers.add(99);
+        numbers.add(5);
+        numbers.add(81);
+        Collections.sort(numbers);
+        System.out.println(numbers);
+        Collections.shuffle(numbers);
+        System.out.println(numbers);
+        List<Products> Fruits = new ArrayList<>();
+        Fruits.add(new Products("banana",12,20,15242));
+        Fruits.add(new Products("apple",300,40,152325522));
+        Fruits.add(new Products("pineapple",41,50,2315232));
+        Fruits.add(new Products("orange",300,40,1785522));
+        Fruits.add(new Products("kiwi",58,50,15285422));
+        System.out.println(Fruits);
+        for(Products fruit: Fruits)
+            System.out.println("Subtotal per Product "+
+                    fruit.name+": "+
+                    Products.subTotalPerProduct(fruit.qty, fruit.price));
     }
 }
+ class Products{
+    String name;
+    int qty;
+    float price;
+
+    int barcode;
+     public Products(){}
+     public Products(String name, int qty, float price, int barcode) {
+         this.name = name;
+         this.qty = qty;
+         this.price = price;
+         this.barcode = barcode;
+     }
+
+     static float subTotalPerProduct(int qty,float price){
+        return qty*price;
+    }
+
+     @Override
+     public String toString() {
+         return "Products{" +
+                 "name='" + name + '\'' +
+                 ", qty=" + qty +
+                 ", price=" + price +
+                 ", barcode=" + barcode +
+                 '}';
+     }
+ }
