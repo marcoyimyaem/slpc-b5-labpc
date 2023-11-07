@@ -64,6 +64,7 @@ public class ArralistSample {
         Fruits.add(new Products("orange",300,40,1785522));
         Fruits.add(new Products("kiwi",58,50,15285422));
         System.out.println(Fruits);
+        Collections.sort();
         for(Products fruit: Fruits)
             System.out.println("Subtotal per Product "+
                     fruit.name+": "+
