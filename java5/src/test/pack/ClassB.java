@@ -1,8 +1,9 @@
 package test.pack;
+import chapter4.MethodSample;
 import com.medusa.example.*;
 import java.util.Random;
 
-public class ClassB {
+public class ClassB extends MethodSample {
     public static void main(String[] args) {
         ClassA ca =new ClassA();
         ClassA aa = ca;
@@ -16,6 +17,8 @@ public class ClassB {
         System.out.println("hello "+ca.name);
 
         System.out.println(cc instanceof ClassC);
-
+        ClassB classB = new ClassB();
+        classB.openCarDoor();
+//        classB.closeCarDoor();
     }
 }
