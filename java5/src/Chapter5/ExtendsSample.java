@@ -8,5 +8,6 @@ public class ExtendsSample extends VarArgsSample {
         ExtendsSample va = new ExtendsSample();
         System.out.println(va.secretNumber);
         va.sumOfAllNum();
+        System.out.println(mathOps(1,12,45,75));
     }
 }

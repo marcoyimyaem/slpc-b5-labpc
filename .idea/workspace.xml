@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/VarArgsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/StaticFinalSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/Chapter5/ExtendsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/Chapter5/ExtendsSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/chapter4/VarArgsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter4/VarArgsSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/VarArgsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/VarArgsSample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

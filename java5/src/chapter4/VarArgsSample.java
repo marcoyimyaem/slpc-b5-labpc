@@ -25,7 +25,7 @@ public class VarArgsSample {
 //                         int... deposit,
 //                            int... withdraw){
 //               return null;}
-    float mathOps(int option,float... numbers){
+    public static float mathOps(int option,float... numbers){
         float result =0;
         switch (option){
             case 1: for(float b:numbers)
@@ -52,10 +52,10 @@ public class VarArgsSample {
 //        System.out.println(va.getAllDeposit("Marco",true,165,47891,4657,56498,4654,548,1654));
         System.out.println(va.mathOps(1,5,6));
         System.out.println(va.mathOps(2,5,6));
-        System.out.println(va.mathOps(3,5,6));
+        System.out.println(mathOps(3,5,6));
         System.out.println(va.mathOps(4,5,6));
         System.out.println(va.mathOps(4));
         System.out.println(va.sumOfAllNum());
 
-    }
+    } //4 10 90 51 43
 }
