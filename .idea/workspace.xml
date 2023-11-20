@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/StaticFinalSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/ConstructorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/MethodOverloadSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java5/src/Chapter5/ExtendsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/Chapter5/ExtendsSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter4/VarArgsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter4/VarArgsSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/VarArgsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/VarArgsSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/tasker/ImportStaticChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/tasker/ImportStaticChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/PassByValue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.ConstructorSample">
     <configuration name="ArralistSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.ArralistSample" />
       <module name="slpc-b5-labpc" />
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.DateTimeSample" />
+    <configuration name="ConstructorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.ConstructorSample" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.logical.ops.LoopsSample" />
+    <configuration name="DateTimeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.DateTimeSample" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.logical.ops.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorSample" />
         <item itemvalue="Application.DateTimeSample" />
         <item itemvalue="Application.ArralistSample" />
         <item itemvalue="Application.VarArgsSample" />
         <item itemvalue="Application.ArraySample" />
-        <item itemvalue="Application.LoopsSample" />
       </list>
     </recent_temporary>
   </component>
