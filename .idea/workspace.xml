@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/EncapsulationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java5/src/chapter4/LambdaSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java5/src/chapter4/ConstructorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter4/ConstructorSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/ConstructorSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/ConstructorSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java5/src/chapter4/LambdaSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java5/src/chapter4/LambdaSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/CheckIfHopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/CheckIfSwimmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/LambdaSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/LambdaSample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
