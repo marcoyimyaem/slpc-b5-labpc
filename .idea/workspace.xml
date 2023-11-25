@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/tasker/ArrayStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java5/src/tasker/LargestInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java5/src/tasker/banking/app/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/CheckTrait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/LambdaSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/chapter4/LambdaSample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayStorage">
-    <configuration name="ArrayStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasker.ArrayStorage" />
+  <component name="RunManager" selected="Application.Account">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasker.banking.app.Account" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasker.*" />
+          <option name="PATTERN" value="tasker.banking.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ConstructorSample" />
+    <configuration name="ArrayStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasker.ArrayStorage" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="tasker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Account" />
         <item itemvalue="Application.ArrayStorage" />
         <item itemvalue="Application.LargestInt" />
         <item itemvalue="Application.LambdaSample" />
         <item itemvalue="Application.EncapsulationSample" />
-        <item itemvalue="Application.ConstructorSample" />
       </list>
     </recent_temporary>
   </component>
