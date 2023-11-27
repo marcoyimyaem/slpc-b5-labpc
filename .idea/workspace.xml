@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73df84e9-d1ae-4d44-873d-a14d7a05fbbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java5/src/mysql/sample/MysqlSample.java" afterDir="false" />
+    <list default="true" id="c494cef4-bbb0-4cda-949c-e39a7b1cb9c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java5/src/tasker/banking/app/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/slpc-b5-labpc/tasker/banking/app/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,22 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.ArrayStorage">
-    <configuration name="ArrayStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasker.ArrayStorage" />
+
+  <component name="RunManager" selected="Application.Account">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasker.banking.app.Account" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasker.*" />
+          <option name="PATTERN" value="tasker.banking.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ConstructorSample" />
+    <configuration name="ArrayStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasker.ArrayStorage" />
       <module name="slpc-b5-labpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="tasker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Account" />
         <item itemvalue="Application.ArrayStorage" />
         <item itemvalue="Application.LargestInt" />
         <item itemvalue="Application.LambdaSample" />
         <item itemvalue="Application.EncapsulationSample" />
-        <item itemvalue="Application.ConstructorSample" />
       </list>
     </recent_temporary>
   </component>
